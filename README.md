@@ -3,4 +3,4 @@
 # saját gép bejegyzés
 # kutyafliktus
 Az első repom
-# nincs kedved elmenni venni vöröshagymát?
+# nincsön kedved elmönni bevásárolni vereshagymát?
